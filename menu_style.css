@@ -62,6 +62,7 @@ img {
 #menu {
 	background-color: rgba(255,255,255,.3);
 	border-radius: 15px;
+	box-shadow: 0 5px 5px 7px #aaf;
 	max-width: 900px;
 	min-width: 300px;
 	margin: 0 auto;
