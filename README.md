@@ -3,6 +3,8 @@ README
 
 This project is being completed as part of [The Odin Project](www.theodinproject.com).
 
+[View this project in the browser!](http://htmlpreview.github.io/?https://github.com/patmallee/menu/blob/master/menu.html)
+
 Purpose
 _______
 
